@@ -1,0 +1,112 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kdeconnect-kde package.
+#
+# Asish Kumar <officialasishkumar@gmail.com>, 2024.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeconnect-kde\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-04-09 00:47+0000\n"
+"PO-Revision-Date: 2024-03-08 21:52+0530\n"
+"Last-Translator: Asish Kumar <officialasishkumar@gmail.com>\n"
+"Language-Team: kde-hindi\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"X-Generator: Lokalize 21.12.3\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "आपका नाम"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "आपका ईमेल"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: dialog.ui:31
+#, kde-format
+msgid "Select device:"
+msgstr "उपकरण का चयन करें:"
+
+#. i18n: ectx: property (text), widget (QRadioButton, sendUrlRadioButton)
+#: dialog.ui:55
+#, kde-format
+msgid "Send URL"
+msgstr "यूआरएल भेजें"
+
+#. i18n: ectx: property (text), widget (QRadioButton, sendFileRadioButton)
+#: dialog.ui:62
+#, kde-format
+msgid "Send File"
+msgstr "फ़ाइल भेजें"
+
+#. i18n: ectx: property (text), widget (QCheckBox, openOnPeerCheckBox)
+#: dialog.ui:82
+#, kde-format
+msgid "Open on peer device"
+msgstr "सहकर्मी डिवाइस पर खोलें"
+
+#: kdeconnect-handler.cpp:43
+#, kde-format
+msgid "KDE Connect URL handler"
+msgstr "केडीई कनेक्ट यूआरएल हैंडलर"
+
+#: kdeconnect-handler.cpp:49
+#, kde-format
+msgid "(C) 2017 Aleix Pol Gonzalez"
+msgstr "(c) 2017, एलेक्स पोल गोंजालेज"
+
+#: kdeconnect-handler.cpp:65
+#, kde-format
+msgid "URL to share"
+msgstr "साझा करने के लिए यूआरएल"
+
+#: kdeconnect-handler.cpp:66
+#, kde-format
+msgid "Select a device"
+msgstr "एक उपकरण चुनें"
+
+#: kdeconnect-handler.cpp:66
+#, kde-format
+msgid "id"
+msgstr "आईडी"
+
+#: kdeconnect-handler.cpp:102
+#, kde-format
+msgid "Enter URL here"
+msgstr "यहां यूआरएल दर्ज करें"
+
+#: kdeconnect-handler.cpp:110
+#, kde-format
+msgid "Enter file location here"
+msgstr "यहां फ़ाइल स्थान दर्ज करें"
+
+#: kdeconnect-handler.cpp:135
+#, kde-format
+msgid "Device to call %1 with:"
+msgstr "%1 पर कॉल करने के लिए उपकरण:"
+
+#: kdeconnect-handler.cpp:138
+#, kde-format
+msgid "Device to open %1 on:"
+msgstr "%1 को खोलने के लिए उपकरण:"
+
+#: kdeconnect-handler.cpp:141
+#, kde-format
+msgid "Device to send a SMS with:"
+msgstr "एसएमएस भेजने के लिए उपकरण:"
+
+#: kdeconnect-handler.cpp:144
+#, kde-format
+msgid "Device to send %1 to:"
+msgstr "%1 को भेजने के लिए उपकरण:"
+
+#: kdeconnect-handler.cpp:173
+#, kde-format
+msgid "Couldn't share %1"
+msgstr "%1 साझा नहीं किया जा सका"

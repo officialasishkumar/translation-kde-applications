@@ -1,0 +1,253 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kdeconnect-kde package.
+#
+# Asish Kumar <officialasishkumar@gmail.com>, 2024.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeconnect-kde\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-07-24 10:09+0000\n"
+"PO-Revision-Date: 2024-02-26 14:27+0530\n"
+"Last-Translator: Asish Kumar <officialasishkumar@gmail.com>\n"
+"Language-Team: kde-hindi\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"X-Generator: Lokalize 21.12.3\n"
+
+#: main.cpp:32 main.cpp:34
+#, kde-format
+msgid "KDE Connect"
+msgstr "केडीई कनेक्ट"
+
+#: main.cpp:36
+#, kde-format
+msgid "(c) 2015, Aleix Pol Gonzalez"
+msgstr "(c) 2015, एलेक्स पोल गोंजालेज"
+
+#: main.cpp:37
+#, kde-format
+msgid "Aleix Pol Gonzalez"
+msgstr "एलेक्स पोल गोंजालेज"
+
+#: main.cpp:37
+#, kde-format
+msgid "Maintainer"
+msgstr "मेंटेनर"
+
+#: main.cpp:38
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "आपका नाम"
+
+#: main.cpp:38
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "आपका ईमेल"
+
+#: main.cpp:54
+#, kde-format
+msgid "URL to share"
+msgstr "साझा करने के लिए URL"
+
+#: qml/DevicePage.qml:23
+#, kde-format
+msgid "Unpair"
+msgstr "अयुग्मित करें"
+
+#: qml/DevicePage.qml:28
+#, kde-format
+msgid "Send Ping"
+msgstr "पिंग भेजें"
+
+#: qml/DevicePage.qml:36 qml/PluginSettings.qml:15
+#, kde-format
+msgid "Plugin Settings"
+msgstr "प्लगइन सेटिंग्स"
+
+#: qml/DevicePage.qml:60
+#, kde-format
+msgid "Multimedia control"
+msgstr "मल्टिमीडिया नियंत्रण"
+
+#: qml/DevicePage.qml:67
+#, kde-format
+msgid "Remote input"
+msgstr "दूरस्थ इनपुट"
+
+#: qml/DevicePage.qml:74 qml/presentationRemote.qml:15
+#, kde-format
+msgid "Presentation Remote"
+msgstr "प्रस्तुति दूरस्थ"
+
+#: qml/DevicePage.qml:83 qml/mousepad.qml:44
+#, kde-format
+msgid "Lock"
+msgstr "लॉक"
+
+#: qml/DevicePage.qml:83
+#, kde-format
+msgid "Unlock"
+msgstr "अनलॉक"
+
+#: qml/DevicePage.qml:90
+#, kde-format
+msgid "Find Device"
+msgstr "डिवाइस ढूंढें"
+
+#: qml/DevicePage.qml:95 qml/runcommand.qml:16
+#, kde-format
+msgid "Run command"
+msgstr "आदेश चलाएँ"
+
+#: qml/DevicePage.qml:104
+#, kde-format
+msgid "Send Clipboard"
+msgstr "क्लिपबोर्ड भेजें"
+
+#: qml/DevicePage.qml:110
+#, kde-format
+msgid "Share File"
+msgstr "फ़ाइल साझा करें"
+
+#: qml/DevicePage.qml:115 qml/volume.qml:16
+#, kde-format
+msgid "Volume control"
+msgstr "ध्वनि नियंत्रण"
+
+#: qml/DevicePage.qml:124
+#, kde-format
+msgid "This device is not paired"
+msgstr "यह उपकरण युग्मित नहीं है"
+
+#: qml/DevicePage.qml:128
+#, kde-format
+msgctxt "Request pairing with a given device"
+msgid "Pair"
+msgstr "जोड़ा"
+
+#: qml/DevicePage.qml:135 qml/DevicePage.qml:144
+#, kde-format
+msgid "Pair requested"
+msgstr "जोड़ी का अनुरोध किया गया"
+
+#: qml/DevicePage.qml:150
+#, kde-format
+msgid "Accept"
+msgstr "स्वीकार करें"
+
+#: qml/DevicePage.qml:156
+#, kde-format
+msgid "Reject"
+msgstr "अस्वीकार करें"
+
+#: qml/DevicePage.qml:165
+#, kde-format
+msgid "This device is not reachable"
+msgstr "उपकरण पहुंच योग्य नहीं"
+
+#: qml/DevicePage.qml:173
+#, kde-format
+msgid "Please choose a file"
+msgstr "कृपया एक फ़ाइल चुनें"
+
+#: qml/FindDevicesPage.qml:23
+#, kde-format
+msgctxt "Title of the page listing the devices"
+msgid "Devices"
+msgstr "उपकरण"
+
+#: qml/FindDevicesPage.qml:38
+#, kde-format
+msgid "No devices found"
+msgstr "कोई उपकरण नहीं मिला"
+
+#: qml/FindDevicesPage.qml:51
+#, kde-format
+msgid "Remembered"
+msgstr "याद आई"
+
+#: qml/FindDevicesPage.qml:53
+#, kde-format
+msgid "Available"
+msgstr "उपलब्ध"
+
+#: qml/FindDevicesPage.qml:55
+#, kde-format
+msgid "Connected"
+msgstr "जुड़े हुए"
+
+#: qml/main.qml:76
+#, kde-format
+msgid "Find devices..."
+msgstr "उपकरण ढूंढें..."
+
+#: qml/main.qml:121 qml/main.qml:124
+#, kde-format
+msgid "Settings"
+msgstr "सेटिंग्स"
+
+#: qml/mousepad.qml:16
+#, kde-format
+msgid "Remote Control"
+msgstr "रिमोट नियंत्रण"
+
+#: qml/mousepad.qml:59
+#, kde-format
+msgid "Press %1 or the left and right mouse buttons at the same time to unlock"
+msgstr "अनलॉक करने के लिए %1 या बाएँ और दाएँ माउस बटन एक साथ दबाएँ"
+
+#: qml/mpris.qml:19
+#, kde-format
+msgid "Multimedia Controls"
+msgstr "मल्टिमीडिया नियंत्रण"
+
+#: qml/mpris.qml:65
+#, kde-format
+msgid "No players available"
+msgstr "कोई खिलाड़ी उपलब्ध नहीं"
+
+#: qml/mpris.qml:105
+#, kde-format
+msgid "%1 - %2"
+msgstr "%1 - %2"
+
+#: qml/presentationRemote.qml:20
+#, kde-format
+msgid "Enable Full-Screen"
+msgstr "फ़ुल-स्क्रीन सक्षम करें"
+
+#: qml/runcommand.qml:21
+#, kde-format
+msgid "Edit commands"
+msgstr "आदेश संपादित करें"
+
+#: qml/runcommand.qml:24
+#, kde-format
+msgid "You can edit commands on the connected device"
+msgstr "आप जुड़ा हुआ उपकरण पर आदेश संपादित कर सकते हैं"
+
+#: qml/runcommand.qml:43
+#, kde-format
+msgid "No commands defined"
+msgstr "कोई आदेश परिभाषित नहीं"
+
+#: qml/Settings.qml:13
+#, kde-format
+msgctxt "@title:window"
+msgid "Settings"
+msgstr "सेटिंग्स"
+
+#: qml/Settings.qml:35
+#, kde-format
+msgid "Device name"
+msgstr "उपकरण का नाम"
+
+#: qml/Settings.qml:52
+#, kde-format
+msgid "About KDE Connect"
+msgstr "केडीई कनेक्ट के बारे में"

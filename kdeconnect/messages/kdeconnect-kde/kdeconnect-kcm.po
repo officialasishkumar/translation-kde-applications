@@ -1,0 +1,187 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kdeconnect-kde package.
+#
+# Asish Kumar <officialasishkumar@gmail.com>, 2024.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeconnect-kde\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-07-17 00:48+0000\n"
+"PO-Revision-Date: 2024-03-14 20:54+0530\n"
+"Last-Translator: Asish Kumar <officialasishkumar@gmail.com>\n"
+"Language-Team: kde-hindi\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"X-Generator: Lokalize 21.12.3\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "आपका नाम"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "आपका ईमेल"
+
+#: kcm.cpp:38
+#, kde-format
+msgid "KDE Connect Settings"
+msgstr "केडीई कनेक्ट सेटिंग्स"
+
+#: kcm.cpp:40
+#, kde-format
+msgid "KDE Connect Settings module"
+msgstr "केडीई कनेक्ट सेटिंग्स मॉड्यूल"
+
+#: kcm.cpp:42
+#, kde-format
+msgid "(C) 2015 Albert Vaca Cintora"
+msgstr "(C) 2015 अल्बर्ट वाका सिंटोरा"
+
+#: kcm.cpp:45
+#, kde-format
+msgid "Albert Vaca Cintora"
+msgstr "अल्बर्ट वाका सिंटोरा"
+
+#: kcm.cpp:207
+#, kde-format
+msgid "Key: %1"
+msgstr "कुंजी: %1"
+
+#: kcm.cpp:230
+#, kde-format
+msgid "Available plugins"
+msgstr "उपलब्ध प्लगइन्स"
+
+#: kcm.cpp:277
+#, kde-format
+msgid "Error trying to pair: %1"
+msgstr "युग्मित करने का प्रयास करने में त्रुटि: %1"
+
+#: kcm.cpp:293
+#, kde-format
+msgid "(paired)"
+msgstr "(युग्मित)"
+
+#: kcm.cpp:296
+#, kde-format
+msgid "(not paired)"
+msgstr "(युग्मित नहीं हुआ)"
+
+#: kcm.cpp:299
+#, kde-format
+msgid "(incoming pair request)"
+msgstr "(आने वाली जोड़ी अनुरोध)"
+
+#: kcm.cpp:302
+#, kde-format
+msgid "(pairing requested)"
+msgstr "(जोड़ने का अनुरोध किया गया)"
+
+#. i18n: ectx: property (text), widget (QLabel, rename_label)
+#: kcm.ui:59
+#, kde-format
+msgid "KDE Connect"
+msgstr "केडीई कनेक्ट"
+
+#. i18n: ectx: property (text), widget (QToolButton, renameShow_button)
+#: kcm.ui:82
+#, kde-format
+msgid "Edit"
+msgstr "संपादित करें"
+
+#. i18n: ectx: property (text), widget (QToolButton, renameDone_button)
+#: kcm.ui:104
+#, kde-format
+msgid "Save"
+msgstr "सहेजें"
+
+#. i18n: ectx: property (text), widget (QPushButton, refresh_button)
+#: kcm.ui:120
+#, kde-format
+msgid "Refresh"
+msgstr "रीफ़्रेश करें"
+
+#. i18n: ectx: property (text), widget (QLabel, name_label)
+#: kcm.ui:193
+#, kde-format
+msgid "Device"
+msgstr "उपकरण"
+
+#. i18n: ectx: property (text), widget (QLabel, status_label)
+#: kcm.ui:209
+#, kde-format
+msgid "(status)"
+msgstr "(स्थिति)"
+
+#. i18n: ectx: property (text), widget (KSqueezedTextLabel, verificationKey)
+#: kcm.ui:232
+#, kde-format
+msgid "🔑 abababab"
+msgstr "🔑 abababab"
+
+#. i18n: ectx: property (text), widget (QPushButton, cancel_button)
+#: kcm.ui:263
+#, kde-format
+msgid "Cancel"
+msgstr "रद्द"
+
+#. i18n: ectx: property (text), widget (QPushButton, accept_button)
+#: kcm.ui:289
+#, kde-format
+msgid "Accept"
+msgstr "स्वीकार करें"
+
+#. i18n: ectx: property (text), widget (QPushButton, reject_button)
+#: kcm.ui:296
+#, kde-format
+msgid "Reject"
+msgstr "अस्वीकार करें"
+
+#. i18n: ectx: property (text), widget (QPushButton, pair_button)
+#: kcm.ui:309
+#, kde-format
+msgid "Request pair"
+msgstr "जोड़ी का अनुरोध करें"
+
+#. i18n: ectx: property (text), widget (QPushButton, unpair_button)
+#: kcm.ui:322
+#, kde-format
+msgid "Unpair"
+msgstr "अयुग्मित करें"
+
+#. i18n: ectx: property (text), widget (QPushButton, ping_button)
+#: kcm.ui:335
+#, kde-format
+msgid "Send ping"
+msgstr "पिंग भेजें"
+
+#. i18n: ectx: property (text), widget (QLabel, noDeviceLinks)
+#: kcm.ui:373
+#, kde-format
+msgid ""
+"<html><head/><body><p>No device selected.<br><br>If you own an Android "
+"device, make sure to install the <a href=\"https://play.google.com/store/"
+"apps/details?id=org.kde.kdeconnect_tp\"><span style=\" text-decoration: "
+"underline; color:#4c6b8a;\">KDE Connect Android app</span></a> (also "
+"available <a href=\"https://f-droid.org/repository/browse/?fdid=org.kde."
+"kdeconnect_tp\"><span style=\" text-decoration: underline; color:#4c6b8a;"
+"\">from F-Droid</span></a>) and it should appear in the list.<br><br>If you "
+"are having problems, visit the <a href=\"https://userbase.kde.org/KDEConnect"
+"\"><span style=\" text-decoration: underline; color:#4c6b8a;\">KDE Connect "
+"Community wiki</span></a> for help.</p></body></html>"
+msgstr ""
+"<html><head/><body><p>No device selected.<br><br>If you own an Android "
+"device, make sure to install the <a href=\"https://play.google.com/store/"
+"apps/details?id=org.kde.kdeconnect_tp\"><span style=\" text-decoration: "
+"underline; color:#4c6b8a;\">KDE Connect Android app</span></a> (also "
+"available <a href=\"https://f-droid.org/repository/browse/?fdid=org.kde."
+"kdeconnect_tp\"><span style=\" text-decoration: underline; color:#4c6b8a;"
+"\">from F-Droid</span></a>) and it should appear in the list.<br><br>If you "
+"are having problems, visit the <a href=\"https://userbase.kde.org/KDEConnect"
+"\"><span style=\" text-decoration: underline; color:#4c6b8a;\">KDE Connect "
+"Community wiki</span></a> for help.</p></body></html>"

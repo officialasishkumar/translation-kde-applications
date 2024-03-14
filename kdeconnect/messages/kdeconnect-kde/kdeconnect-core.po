@@ -1,0 +1,139 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kdeconnect-kde package.
+#
+# Asish Kumar <officialasishkumar@gmail.com>, 2024.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeconnect-kde\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-07-17 00:48+0000\n"
+"PO-Revision-Date: 2024-02-22 18:02+0530\n"
+"Last-Translator: Asish Kumar <officialasishkumar@gmail.com>\n"
+"Language-Team: kde-hindi\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"X-Generator: Lokalize 21.12.3\n"
+
+#: backends/lan/compositeuploadjob.cpp:82
+#, kde-format
+msgid "Couldn't find an available port"
+msgstr "उपलब्ध पोर्ट नहीं मिल सका"
+
+#: backends/lan/compositeuploadjob.cpp:127
+#, kde-format
+msgid "Failed to send packet to %1"
+msgstr "%1 को पैकेट भेजने में विफल"
+
+#: backends/lan/compositeuploadjob.cpp:303
+#, kde-format
+msgid "Sending to %1"
+msgstr "%1 को भेज रहा हूँ"
+
+#: backends/lan/compositeuploadjob.cpp:303
+#, kde-format
+msgid "File"
+msgstr "फ़ाइल"
+
+#: backends/pairinghandler.cpp:59
+#, kde-format
+msgid "Canceled by other peer"
+msgstr "अन्य साथियों द्वारा रद्द कर दिया गया"
+
+#: backends/pairinghandler.cpp:75
+#, kde-format
+msgid "%1: Already paired"
+msgstr "%1: पहले से ही युग्मित है"
+
+#: backends/pairinghandler.cpp:84 backends/pairinghandler.cpp:98
+#, kde-format
+msgid "%1: Device not reachable"
+msgstr "%1: डिवाइस पहुंच योग्य नहीं"
+
+#: backends/pairinghandler.cpp:113
+#, kde-format
+msgid "Device not reachable"
+msgstr "डिवाइस पहुंच योग्य नहीं"
+
+#: backends/pairinghandler.cpp:124
+#, kde-format
+msgid "Cancelled by user"
+msgstr "उपयोगकर्ता द्वारा रद्द कर दिया गया"
+
+#: backends/pairinghandler.cpp:140
+#, kde-format
+msgid "Timed out"
+msgstr "समय समााप्त"
+
+#: compositefiletransferjob.cpp:45
+#, kde-format
+msgctxt "@title job"
+msgid "Receiving file"
+msgid_plural "Receiving files"
+msgstr[0] "फ़ाइल प्राप्त हो रही है"
+msgstr[1] "फ़ाइलें प्राप्त हो रही हैं"
+
+#: compositefiletransferjob.cpp:46
+#, kde-format
+msgctxt "The source of a file operation"
+msgid "Source"
+msgstr "स्रोत"
+
+#: compositefiletransferjob.cpp:47
+#, kde-format
+msgctxt "The destination of a file operation"
+msgid "Destination"
+msgstr "मंज़िल"
+
+#: device.cpp:453
+#, kde-format
+msgid "SHA256 fingerprint of your device certificate is: %1\n"
+msgstr "आपके डिवाइस प्रमाणपत्र का SHA256 फ़िंगरप्रिंट है: %1\n"
+
+#: device.cpp:459
+#, kde-format
+msgid "SHA256 fingerprint of remote device certificate is: %1\n"
+msgstr "रिमोट डिवाइस प्रमाणपत्र का SHA256 फ़िंगरप्रिंट है: %1\n"
+
+#: filetransferjob.cpp:60
+#, kde-format
+msgid "Filename already present"
+msgstr "फ़ाइलनाम पहले से मौजूद है"
+
+#: filetransferjob.cpp:110
+#, kde-format
+msgid "Received incomplete file: %1"
+msgstr "अपूर्ण फ़ाइल प्राप्त हुई: %1"
+
+#: filetransferjob.cpp:128
+#, kde-format
+msgid "Received incomplete file from: %1"
+msgstr "यहाँ से अपूर्ण फ़ाइल प्राप्त हुई: %1"
+
+#: kdeconnectconfig.cpp:78
+#, kde-format
+msgid "KDE Connect failed to start"
+msgstr "केडीई कनेक्ट प्रारंभ होने में विफल रहा"
+
+#: kdeconnectconfig.cpp:79
+#, kde-format
+msgid ""
+"Could not find support for RSA in your QCA installation. If your "
+"distribution provides separate packets for QCA-ossl and QCA-gnupg, make sure "
+"you have them installed and try again."
+msgstr ""
+"आपके QCA इंस्टालेशन में RSA के लिए समर्थन नहीं मिल सका। अपने अगर"
+"वितरण QCA-ossl और QCA-gnupg के लिए अलग-अलग पैकेट प्रदान करता है, सुनिश्चित"
+" करें कि आपने उन्हें इंस्टॉल कर लिया है और पुनः प्रयास करें।"
+
+#: kdeconnectconfig.cpp:353
+#, kde-format
+msgid "Could not store private key file: %1"
+msgstr "निजी कुंजी फ़ाइल संग्रहित नहीं किया जा सका: %1"
+
+#: kdeconnectconfig.cpp:398
+#, kde-format
+msgid "Could not store certificate file: %1"
+msgstr "प्रमाणपत्र फ़ाइल संग्रहित नहीं किया जा सका: %1"

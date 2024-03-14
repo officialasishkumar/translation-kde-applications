@@ -1,0 +1,150 @@
+#
+# Asish Kumar <officialasishkumar@gmail.com>, 2024.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-03-28 16:22+0000\n"
+"PO-Revision-Date: 2024-03-10 13:38+0530\n"
+"Last-Translator: Asish Kumar <officialasishkumar@gmail.com>\n"
+"Language-Team: kde-hindi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"X-Generator: Lokalize 21.12.3\n"
+
+#. Tag: title
+#: index.docbook:10 index.docbook:31
+#, no-c-format
+msgid "KDE Connect"
+msgstr "केडीई कनेक्ट"
+
+#. Tag: author
+#: index.docbook:12
+#, no-c-format
+msgid "&Aleix.Pol;"
+msgstr "&Aleix.Pol;"
+
+#. Tag: trans_comment
+#: index.docbook:13
+#, no-c-format
+msgid "ROLES_OF_TRANSLATORS"
+msgstr "ROLES_OF_TRANSLATORS"
+
+#. Tag: date
+#: index.docbook:16
+#, no-c-format
+msgid "2015-10-19"
+msgstr "2015-10-19"
+
+#. Tag: releaseinfo
+#: index.docbook:17
+#, no-c-format
+msgid "<releaseinfo>0.9</releaseinfo>"
+msgstr "<releaseinfo>0.9</releaseinfo>"
+
+#. Tag: keyword
+#: index.docbook:20
+#, no-c-format
+msgid "<keyword>KDE</keyword>"
+msgstr "<keyword>केडीई</keyword>"
+
+#. Tag: keyword
+#: index.docbook:21
+#, no-c-format
+msgid "Connect"
+msgstr "कनेक्ट"
+
+#. Tag: keyword
+#: index.docbook:22
+#, no-c-format
+msgid "phone"
+msgstr "फ़ोन"
+
+#. Tag: keyword
+#: index.docbook:23
+#, no-c-format
+msgid "remote"
+msgstr "दूरस्थ"
+
+#. Tag: keyword
+#: index.docbook:24
+#, no-c-format
+msgid "device"
+msgstr "उपकरण"
+
+#. Tag: keyword
+#: index.docbook:25
+#, no-c-format
+msgid "pair"
+msgstr "जोड़ा"
+
+#. Tag: para
+#: index.docbook:33
+#, no-c-format
+msgid ""
+"You can use this dialog to configure which devices we're paired to and what "
+"we're sharing. The UI is divided in 2 main parts:"
+msgstr ""
+"आप इस संवाद का उपयोग यह प्रारूप करने के लिए कर सकते हैं कि हम किन उपकरणों से"
+" जुड़े हैं और हम क्या साझा कर रहे हैं। UI को 2 मुख्य भागों में विभाजित किया"
+" गया है:"
+
+#. Tag: title
+#: index.docbook:36
+#, no-c-format
+msgid "Devices List"
+msgstr "उपकरण की सूची"
+
+#. Tag: para
+#: index.docbook:38
+#, no-c-format
+msgid ""
+"It contains a list of devices separated between paired and unpaired. Select "
+"one to pair it and when it's paired, configure it."
+msgstr ""
+"इसमें युग्मित और अयुग्मित के बीच अलग किए गए उपकरणों की एक सूची शामिल है। इसे"
+" युग्मित करने के लिए एक का चयन करें और जब यह युग्मित हो जाए, तो इसे प्रारूप"
+" करें।"
+
+#. Tag: title
+#: index.docbook:42
+#, no-c-format
+msgid "Device Configuration"
+msgstr "उपकरण का प्रारूप"
+
+#. Tag: para
+#: index.docbook:44
+#, no-c-format
+msgid ""
+"It offers a list of the available plugins related to the device. These "
+"plugins will correspond to the different features available for the device. "
+"This is useful mainly for knowing what plugins are available and, in case "
+"there's some information that should not be shared with a device, explicitly "
+"disable it."
+msgstr ""
+"यह उपकरण से संबंधित उपलब्ध प्लगइन्स की एक सूची प्रदान करता है। इन प्लगइन्स के"
+" लिए उपलब्ध विभिन्न सुविधाओं के अनुरूप होंगे। यह मुख्य रूप से यह जानने के लिए"
+" उपयोगी है कि कौन से प्लगइन उपलब्ध हैं और, यदि कोई ऐसी जानकारी है जिसे किसी"
+" उपकरण के साथ साझा नहीं किया जाना चाहिए, तो उसे स्पष्ट रूप से अक्षम करें।"
+
+#. Tag: title
+#: index.docbook:48
+#, no-c-format
+msgid "General interaction with the devices"
+msgstr "उपकरणों के साथ सामान्य बातचीत"
+
+#. Tag: para
+#: index.docbook:50
+#, no-c-format
+msgid ""
+"KDE Connect doesn't offer a central place to interact with your devices. "
+"It's designed to integrate properly with your operating system, making it "
+"possible to share files from the different applications or integrating with "
+"the notification system to display information."
+msgstr ""
+"केडीई कनेक्ट आपके उपकरण के साथ इंटरैक्ट करने के लिए कोई केंद्रीय स्थान प्रदान"
+" नहीं करता है। इसे आपके ऑपरेटिंग सिस्टम के साथ ठीक से एकीकृत करने के लिए"
+" डिज़ाइन किया गया है, जिससे विभिन्न एप्लिकेशन से फ़ाइलें साझा करना या सूचना"
+" प्रदर्शित करने के लिए अधिसूचना प्रणाली के साथ एकीकृत करना संभव हो जाता है।"

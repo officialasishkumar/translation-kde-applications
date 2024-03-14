@@ -1,0 +1,38 @@
+# Asish Kumar <officialasishkumar@gmail.com>, 2024.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-02-06 00:46+0000\n"
+"PO-Revision-Date: 2024-03-08 21:46+0530\n"
+"Last-Translator: Asish Kumar <officialasishkumar@gmail.com>\n"
+"Language-Team: kde-hindi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"X-Generator: Lokalize 21.12.3\n"
+
+#. (itstool) path: component/name
+#: org.kde.kdeconnect.metainfo.xml:6
+msgid "KDE Connect"
+msgstr "केडीई कनेक्ट"
+
+#. (itstool) path: component/summary
+#: org.kde.kdeconnect.metainfo.xml:7
+msgid "Seamless connection of your devices"
+msgstr "आपके उपकरणों का निर्बाध कनेक्शन"
+
+#. (itstool) path: description/p
+#: org.kde.kdeconnect.metainfo.xml:9
+msgid ""
+"KDE Connect provides various features to integrate your phone and your"
+" computer. It allows you to send files to the other device, control its media"
+" playback, send remote input, view its notifications and may things more. It"
+" is available for (mobile) Linux, Android, FreeBSD, Windows and macOS."
+msgstr ""
+"केडीई कनेक्ट आपके फ़ोन और आपके कंप्यूटर को एकीकृत करने के लिए विभिन्न"
+" सुविधाएँ प्रदान करता है। यह आपको अन्य डिवाइस पर फ़ाइलें भेजने, उसके मीडिया"
+" प्लेबैक को नियंत्रित करने, रिमोट इनपुट भेजने, उसकी सूचनाएं देखने और बहुत कुछ"
+" करने की सुविधा देता है। यह (मोबाइल) लिनक्स, एंड्रॉइड, फ्रीबीएसडी, विंडोज और"
+" मैकओएस के लिए उपलब्ध है।"

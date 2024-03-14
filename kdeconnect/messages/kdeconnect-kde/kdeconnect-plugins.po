@@ -1,0 +1,486 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kdeconnect-kde package.
+#
+# Asish Kumar <officialasishkumar@gmail.com>, 2024.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeconnect-kde\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-09-23 02:24+0000\n"
+"PO-Revision-Date: 2024-03-10 14:06+0530\n"
+"Last-Translator: Asish Kumar <officialasishkumar@gmail.com>\n"
+"Language-Team: kde-hindi\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"X-Generator: Lokalize 21.12.3\n"
+
+#: battery/batteryplugin.cpp:128
+#, kde-format
+msgctxt "device name: low battery"
+msgid "%1: Low Battery"
+msgstr "%1: कम बैटरी"
+
+#: battery/batteryplugin.cpp:129
+#, kde-format
+msgid "Battery at %1%"
+msgstr "बैटरी %1% पर"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, ClipboardConfigUi)
+#: clipboard/clipboard_config.ui:17
+#, kde-format
+msgid "Clipboard plugin"
+msgstr "क्लिपबोर्ड प्लगइन"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_1)
+#: clipboard/clipboard_config.ui:32
+#, kde-format
+msgid "Automatic synchronization"
+msgstr "स्वचालित तुल्यकालन"
+
+#. i18n: ectx: property (text), widget (QCheckBox, check_autoshare)
+#: clipboard/clipboard_config.ui:38
+#, kde-format
+msgid "Automatically share the clipboard from this device"
+msgstr "इस उपकरण से क्लिपबोर्ड को स्वचालित रूप से साझा करें"
+
+#. i18n: ectx: property (text), widget (QCheckBox, check_password)
+#: clipboard/clipboard_config.ui:45
+#, kde-format
+msgid "Including passwords (as marked by password managers)"
+msgstr "पासवर्ड सहित (जैसा कि पासवर्ड प्रबंधकों द्वारा चिह्नित किया गया है)"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: findthisdevice/findthisdevice_config.ui:17
+#, kde-format
+msgid "Discovery Utilities"
+msgstr "उपयोगिताएँ खोजे"
+
+#. i18n: ectx: property (text), widget (QLabel)
+#: findthisdevice/findthisdevice_config.ui:25
+#, kde-format
+msgid "Sound to play:"
+msgstr "बजाने के लिए ध्वनि:"
+
+#. i18n: ectx: property (toolTip), widget (KUrlRequester, soundFileRequester)
+#: findthisdevice/findthisdevice_config.ui:39
+#, kde-format
+msgid "Select the sound to play"
+msgstr "बजाने के लिए ध्वनि का चयन करें"
+
+#: lockdevice/lockdeviceplugin-win.cpp:65
+#: lockdevice/lockdeviceplugin.cpp:93
+#, kde-format
+msgid "Remote lock successful"
+msgstr "दूरस्थ लॉक सफल"
+
+#: lockdevice/lockdeviceplugin-win.cpp:68
+#: lockdevice/lockdeviceplugin-win.cpp:69
+#: lockdevice/lockdeviceplugin.cpp:98 lockdevice/lockdeviceplugin.cpp:100
+#, kde-format
+msgid "Remote lock failed"
+msgstr "दूरस्थ लॉक विफल"
+
+#: notifications/notification.cpp:128
+#, kde-format
+msgctxt "@action:button"
+msgid "Reply"
+msgstr "जवाब"
+
+#: notifications/notification.cpp:129
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "Reply to %1..."
+msgstr "%1 का उत्तर दें..."
+
+#: notifications/notification.cpp:135
+#, kde-format
+msgid "Reply"
+msgstr "जवाब"
+
+#: notifications/sendreplydialog.cpp:29
+#, kde-format
+msgid "Send"
+msgstr "भेजें"
+
+#. i18n: ectx: property (windowTitle), widget (QDialog, SendReplyDialog)
+#: notifications/sendreplydialog.ui:14
+#, kde-format
+msgid "Dialog"
+msgstr "डायलॉग"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, PauseMusicConfigUi)
+#: pausemusic/pausemusic_config.ui:17
+#, kde-format
+msgid "Pause music plugin"
+msgstr "संगीत प्लगइन रोकें"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: pausemusic/pausemusic_config.ui:32
+#, kde-format
+msgid "Condition"
+msgstr "स्थिति"
+
+#. i18n: ectx: property (text), widget (QRadioButton, rad_ringing)
+#: pausemusic/pausemusic_config.ui:38
+#, kde-format
+msgid "Pause as soon as phone rings"
+msgstr "फ़ोन बजते ही रुकें"
+
+#. i18n: ectx: property (text), widget (QRadioButton, rad_talking)
+#: pausemusic/pausemusic_config.ui:45
+#, kde-format
+msgid "Pause only while talking"
+msgstr "बात करते समय ही रुकें"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: pausemusic/pausemusic_config.ui:61
+#, kde-format
+msgid "Actions"
+msgstr "कार्रवाई"
+
+#. i18n: ectx: property (text), widget (QCheckBox, check_pause)
+#: pausemusic/pausemusic_config.ui:67
+#, kde-format
+msgid "Pause media players"
+msgstr "मीडिया प्लेयर रोकें"
+
+#. i18n: ectx: property (text), widget (QCheckBox, check_mute)
+#: pausemusic/pausemusic_config.ui:74
+#, kde-format
+msgid "Mute system sound"
+msgstr "सिस्टम ध्वनि म्यूट करें"
+
+#. i18n: ectx: property (text), widget (QCheckBox, check_resume)
+#: pausemusic/pausemusic_config.ui:81
+#, kde-format
+msgid "Automatically resume media when call has finished"
+msgstr "कॉल समाप्त होने पर स्वचालित रूप से मीडिया फिर से शुरू करें"
+
+#: ping/pingplugin.cpp:37
+#, kde-format
+msgid "Ping!"
+msgstr "पिंग!"
+
+#: runcommand/runcommand_config.cpp:41
+#, kde-format
+msgid "Schedule a shutdown"
+msgstr "शटडाउन करने का समय निर्धारित करें"
+
+#: runcommand/runcommand_config.cpp:42
+#, kde-format
+msgid "Shutdown now"
+msgstr "अभी शटडाउन करें"
+
+#: runcommand/runcommand_config.cpp:43
+#, kde-format
+msgid "Cancel last shutdown"
+msgstr "अंतिम शटडाउन रद्द करें"
+
+#: runcommand/runcommand_config.cpp:44
+#, kde-format
+msgid "Schedule a reboot"
+msgstr "रीबूट शेड्यूल करें"
+
+#: runcommand/runcommand_config.cpp:45 runcommand/runcommand_config.cpp:54
+#, kde-format
+msgid "Suspend"
+msgstr "निलम्बित करें"
+
+#: runcommand/runcommand_config.cpp:46 runcommand/runcommand_config.cpp:62
+#, kde-format
+msgid "Lock Screen"
+msgstr "लॉक स्क्रीन"
+
+#: runcommand/runcommand_config.cpp:49
+#, kde-format
+msgid "Say Hello"
+msgstr "हेलो बोले"
+
+#: runcommand/runcommand_config.cpp:52
+#, kde-format
+msgid "Shutdown"
+msgstr "शटडाउन"
+
+#: runcommand/runcommand_config.cpp:53
+#, kde-format
+msgid "Reboot"
+msgstr "रीबूट"
+
+#: runcommand/runcommand_config.cpp:57
+#, kde-format
+msgid "Maximum Brightness"
+msgstr "अधिकतम चमक"
+
+#: runcommand/runcommand_config.cpp:63
+#, kde-format
+msgid "Unlock Screen"
+msgstr "स्क्रीन अनलॉक करें"
+
+#: runcommand/runcommand_config.cpp:64
+#, kde-format
+msgid "Close All Vaults"
+msgstr "सभी वॉल्ट बंद करें"
+
+#: runcommand/runcommand_config.cpp:66
+#, kde-format
+msgid "Forcefully Close All Vaults"
+msgstr "सभी वॉल्ट को बलपूर्वक बंद करें"
+
+#: runcommand/runcommand_config.cpp:75
+#, kde-format
+msgid "Sample commands"
+msgstr "नमूना आदेश"
+
+#: runcommand/runcommand_config.cpp:80
+#, kde-format
+msgid "Export"
+msgstr "निर्यात"
+
+#: runcommand/runcommand_config.cpp:83
+#, kde-format
+msgid "Import"
+msgstr "आयात"
+
+#: runcommand/runcommand_config.cpp:93 sendnotifications/notifyingapplicationmodel.cpp:182
+#, kde-format
+msgid "Name"
+msgstr "नाम"
+
+#: runcommand/runcommand_config.cpp:93
+#, kde-format
+msgid "Command"
+msgstr "आदेश"
+
+#: runcommand/runcommand_config.cpp:102
+#, kde-format
+msgid "Export Commands"
+msgstr "निर्यात आदेश"
+
+#: runcommand/runcommand_config.cpp:127
+#, kde-format
+msgid "Import Commands"
+msgstr "आयात आदेश"
+
+#: screensaver-inhibit/screensaverinhibitplugin.cpp:25
+#, kde-format
+msgid "Phone is connected"
+msgstr "फ़ोन जुड़ा हुआ है"
+
+#: sendnotifications/notifyingapplicationmodel.cpp:186
+#, kde-format
+msgid "Blacklisted"
+msgstr "ब्लैक लिस्ट किया"
+
+#: sendnotifications/notifyingapplicationmodel.cpp:190
+#, kde-format
+msgid "Name of a notifying application."
+msgstr "एक अधिसूचना आवेदन का नाम."
+
+#: sendnotifications/notifyingapplicationmodel.cpp:192
+#, kde-format
+msgid "Synchronize notifications of an application?"
+msgstr "किसी एप्लिकेशन की सूचनाएं सिंक्रनाइज़ करें?"
+
+#: sendnotifications/notifyingapplicationmodel.cpp:195
+#, kde-format
+msgid ""
+"Regular expression defining which notifications should not be sent.\n"
+"This pattern is applied to the summary and, if selected above, the body of "
+"notifications."
+msgstr ""
+"नियमित अभिव्यक्ति यह परिभाषित करती है कि कौन सी अधिसूचना नहीं भेजी जानी"
+" चाहिए.\n"
+"यह पैटर्न सारांश और, यदि ऊपर चुना गया है, तो सूचनाओं के मुख्य भाग पर लागू"
+" होता है।"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: sendnotifications/sendnotifications_config.ui:38
+#, kde-format
+msgid "General"
+msgstr "सामान्य"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, check_persistent)
+#: sendnotifications/sendnotifications_config.ui:44
+#, kde-format
+msgid "Synchronize only notifications with a timeout value of 0?"
+msgstr "केवल 0 के टाइमआउट मान वाली सूचनाओं को सिंक्रनाइज़ करें?"
+
+#. i18n: ectx: property (text), widget (QCheckBox, check_persistent)
+#: sendnotifications/sendnotifications_config.ui:47
+#, kde-format
+msgid "Persistent notifications only"
+msgstr "केवल लगातार सूचनाएं"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, check_body)
+#: sendnotifications/sendnotifications_config.ui:60
+#, kde-format
+msgid ""
+"Append the notification body to the summary when synchronizing notifications?"
+msgstr ""
+"सूचनाओं को सिंक्रनाइज़ करते समय अधिसूचना के मुख्य भाग को सारांश में जोड़ें?"
+
+#. i18n: ectx: property (text), widget (QCheckBox, check_body)
+#: sendnotifications/sendnotifications_config.ui:63
+#, kde-format
+msgid "Include body"
+msgstr "शरीर शामिल करें"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, check_icons)
+#: sendnotifications/sendnotifications_config.ui:76
+#, kde-format
+msgid "Synchronize icons of notifying applications if possible?"
+msgstr "यदि संभव हो तो सूचित अनुप्रयोगों के चिह्न सिंक्रनाइज़ करें?"
+
+#. i18n: ectx: property (text), widget (QCheckBox, check_icons)
+#: sendnotifications/sendnotifications_config.ui:79
+#, kde-format
+msgid "Synchronize icons"
+msgstr "चिह्न सिंक्रनाइज़ करें"
+
+#. i18n: ectx: property (toolTip), widget (QSpinBox, spin_urgency)
+#: sendnotifications/sendnotifications_config.ui:107
+#, kde-format
+msgid ""
+"<html><head/><body><p>Minimum urgency level of the notifications</p></body></"
+"html>"
+msgstr ""
+"<html><head/><body><p>सूचनाओं का न्यूनतम तात्कालिकता स्तर</p></body></"
+"html>"
+
+#. i18n: ectx: property (toolTip), widget (QLabel, label)
+#: sendnotifications/sendnotifications_config.ui:123
+#, kde-format
+msgid "Synchronize only notifications with the given urgency level."
+msgstr "दिए गए तात्कालिकता स्तर के साथ केवल सूचनाओं को सिंक्रनाइज़ करें."
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: sendnotifications/sendnotifications_config.ui:126
+#, kde-format
+msgid "Minimum urgency level"
+msgstr "Minimum urgency level"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: sendnotifications/sendnotifications_config.ui:148
+#, kde-format
+msgid "Applications"
+msgstr "अनुप्रयोग"
+
+#: sftp/mounter.cpp:168
+#, kde-format
+msgid "Failed to start sshfs"
+msgstr "sshfs प्रारंभ करने में विफल"
+
+#: sftp/mounter.cpp:172
+#, kde-format
+msgid "sshfs process crashed"
+msgstr "sshfs प्रक्रिया क्रैश हो गई"
+
+#: sftp/mounter.cpp:176
+#, kde-format
+msgid "Unknown error in sshfs"
+msgstr "sshfs में अज्ञात त्रुटि"
+
+#: sftp/mounter.cpp:187
+#, kde-format
+msgid "Error when accessing filesystem. sshfs finished with exit code %0"
+msgstr ""
+"फ़ाइल सिस्टम तक पहुँचने में त्रुटि. sshfs निकास कोड %0 के साथ समाप्त हुआ"
+
+#: sftp/mounter.cpp:196
+#, kde-format
+msgid "Failed to mount filesystem: device not responding"
+msgstr "फ़ाइल सिस्टम माउंट करने में विफल: उपकरण प्रतिक्रिया नहीं दे रहा है"
+
+#: sftp/sftpplugin-win.cpp:83
+#, kde-format
+msgid "KDE Connect"
+msgstr "केडीई कनेक्ट"
+
+#: sftp/sftpplugin-win.cpp:84
+#, kde-format
+msgid "Cannot handle SFTP protocol. Apologies for the inconvenience"
+msgstr "SFTP प्रोटोकॉल को संभाल नहीं सकता. असुविधा के लिए खेद है"
+
+#: sftp/sftpplugin.cpp:145
+#, kde-format
+msgid "All files"
+msgstr "सभी फाइलें"
+
+#: sftp/sftpplugin.cpp:146
+#, kde-format
+msgid "Camera pictures"
+msgstr "कैमरे की तस्वीरें"
+
+#: share/share_config.cpp:24
+#, kde-format
+msgid "&percnt;1 in the path will be replaced with the specific device name."
+msgstr "पथ में &percnt;1 को विशिष्ट उपकरण नाम से बदल दिया जाएगा।"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, ShareConfigUi)
+#: share/share_config.ui:17
+#, kde-format
+msgid "Share plugin settings"
+msgstr "प्लगइन सेटिंग्स साझा करें"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: share/share_config.ui:23
+#, kde-format
+msgid "Receiving"
+msgstr "प्राप्त हो रहा है"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: share/share_config.ui:31
+#, kde-format
+msgid "Save files in:"
+msgstr "फ़ाइलें इसमें सहेजें:"
+
+#: share/shareplugin.cpp:162
+#, kde-format
+msgctxt "@info Some piece of text was received from a connected device"
+msgid "Shared text from %1 copied to clipboard"
+msgstr "%1 से साझा किया गया टेक्स्ट क्लिपबोर्ड पर कॉपी किया गया"
+
+#: share/shareplugin.cpp:164
+#, kde-format
+msgctxt "@action:button Edit text with default text editor"
+msgid "Open in Text Editor"
+msgstr "पाठ संपादक में खोलें"
+
+#: share/shareplugin.cpp:167
+#, kde-format
+msgctxt "@action:button Open URL with default app"
+msgid "Open Link"
+msgstr "लिंक खोलें"
+
+#: share/shareplugin.cpp:241
+#, kde-format
+msgid "Could not share file"
+msgstr "फ़ाइल साझा नहीं की जा सकी"
+
+#: share/shareplugin.cpp:241
+#, kde-format
+msgid "%1 does not exist"
+msgstr "%1 मौजूद नहीं है"
+
+#: telephony/telephonyplugin.cpp:28
+#, kde-format
+msgid "unknown number"
+msgstr "अज्ञात नंबर"
+
+#: telephony/telephonyplugin.cpp:37
+#, kde-format
+msgid "Incoming call from %1"
+msgstr "%1 से आने वाली कॉल"
+
+#: telephony/telephonyplugin.cpp:41
+#, kde-format
+msgid "Missed call from %1"
+msgstr "%1 से मिस्ड कॉल"
+
+#: telephony/telephonyplugin.cpp:69
+#, kde-format
+msgid "Mute Call"
+msgstr "कॉल म्यूट करें"

@@ -1,0 +1,225 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kdeconnect-kde package.
+#
+# Asish Kumar <officialasishkumar@gmail.com>, 2024.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeconnect-kde\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-01-24 00:57+0000\n"
+"PO-Revision-Date: 2024-03-14 20:33+0530\n"
+"Last-Translator: Asish Kumar <officialasishkumar@gmail.com>\n"
+"Language-Team: kde-hindi\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"X-Generator: Lokalize 21.12.3\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "आपका नाम"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "आपका ईमेल"
+
+#: conversationlistmodel.cpp:197
+#, kde-format
+msgctxt "Used as a text placeholder when the most-recent message is an image"
+msgid "Picture"
+msgstr "चित्र"
+
+#: conversationlistmodel.cpp:199
+#, kde-format
+msgctxt "Used as a text placeholder when the most-recent message is a video"
+msgid "Video"
+msgstr "वीडियो"
+
+#: conversationlistmodel.cpp:203
+#, kde-format
+msgctxt ""
+"Used as a text placeholder when the most-recent message is an arbitrary "
+"attachment, resulting in something like \"pdf file\""
+msgid "%1 file"
+msgstr "%1 फ़ाइल"
+
+#: conversationlistmodel.cpp:219
+#, kde-format
+msgid "You: %1"
+msgstr "आप: %1"
+
+#: conversationlistmodel.cpp:225
+#, kde-format
+msgid "%1: %2"
+msgstr "%1: %2"
+
+#: conversationlistmodel.cpp:267 conversationlistmodel.cpp:289
+#, kde-format
+msgid "%1"
+msgstr "%1"
+
+#: main.cpp:51 qml/main.qml:67
+#, kde-format
+msgid "KDE Connect SMS"
+msgstr "केडीई कनेक्ट एसएमएस"
+
+#: main.cpp:53
+#, kde-format
+msgid "SMS Instant Messaging"
+msgstr "एसएमएस त्वरित संदेश सेवा"
+
+#: main.cpp:55
+#, kde-format
+msgid "(C) 2018-2022, KDE Connect Team"
+msgstr "(C) 2018-2022, केडीई कनेक्ट टीम"
+
+#: main.cpp:56
+#, kde-format
+msgid "Simon Redman"
+msgstr "साइमन रेडमैन"
+
+#: main.cpp:57
+#, kde-format
+msgid "Aleix Pol Gonzalez"
+msgstr "एलेक्स पोल गोंजालेज"
+
+#: main.cpp:58
+#, kde-format
+msgid "Nicolas Fella"
+msgstr "निकोलस फेला"
+
+#: main.cpp:76
+#, kde-format
+msgid "Select a device"
+msgstr "एक उपकरण चुनें"
+
+#: main.cpp:76
+#, kde-format
+msgid "id"
+msgstr "आईडी"
+
+#: main.cpp:77
+#, kde-format
+msgid "Send a message"
+msgstr "एक संदेश भेजो"
+
+#: main.cpp:77
+#, kde-format
+msgid "message"
+msgstr "संदेश"
+
+#: qml/AttachmentViewer.qml:20
+#, kde-format
+msgid "Open with default"
+msgstr "डिफ़ॉल्ट के साथ खोलें"
+
+#: qml/ChatMessage.qml:154
+#, kde-format
+msgid "Copy Message"
+msgstr "संदेश की प्रतिलिपि बनाएँ"
+
+#: qml/ChatMessage.qml:159
+#, kde-format
+msgid "Copy Selection"
+msgstr "चयन की प्रतिलिपि बनाएँ"
+
+#: qml/ConversationList.qml:24
+#, kde-format
+msgid "No devices available"
+msgstr "कोई उपकरण उपलब्ध नहीं"
+
+#: qml/ConversationList.qml:34
+#, kde-format
+msgid ""
+"No new messages can be sent or received, but you can browse cached content"
+msgstr ""
+"कोई नया संदेश भेजा या प्राप्त नहीं किया जा सकता है, लेकिन आप कैश्ड सामग्री"
+" ब्राउज़ कर सकते हैं"
+
+#: qml/ConversationList.qml:50
+#, kde-format
+msgid ""
+"Loading conversations from device. If this takes a long time, please wake up "
+"your device and then click Refresh."
+msgstr ""
+"उपकरण से बातचीत लोड हो रही है. यदि इसमें लंबा समय लगता है, तो कृपया अपने"
+" उपकरण को जगाएं और फिर रीफ्रेश पर क्लिक करें."
+
+#: qml/ConversationList.qml:58
+#, kde-format
+msgid ""
+"Tip: If you plug in your device, it should not go into doze mode and should "
+"load quickly."
+msgstr ""
+"युक्ति: यदि आप अपने उपकरण में प्लग इन करते हैं, तो इसे डोज़ मोड में नहीं जाना"
+" चाहिए और जल्दी से लोड होना चाहिए।"
+
+#: qml/ConversationList.qml:66 qml/main.qml:87
+#, kde-format
+msgid "Refresh"
+msgstr "रीफ़्रेश "
+
+#: qml/ConversationList.qml:80
+#, kde-format
+msgid "Choose recipient"
+msgstr "प्राप्तकर्ता चुनें"
+
+#: qml/ConversationList.qml:85
+#, kde-format
+msgid "Cancel"
+msgstr "रद्द"
+
+#: qml/ConversationList.qml:112
+#, kde-format
+msgid "Search or start conversation..."
+msgstr "खोजें या बातचीत प्रारंभ करें..."
+
+#: qml/ConversationList.qml:144
+#, kde-format
+msgid "New"
+msgstr "नया"
+
+#: qml/ConversationList.qml:149
+#, kde-format
+msgid "Start new conversation"
+msgstr "नई बातचीत शुरू करें"
+
+#: qml/ConversationList.qml:248
+#, kde-format
+msgctxt "Placeholder message text when no messages are found"
+msgid "No matches"
+msgstr "कोई मेल नहीं"
+
+#: qml/main.qml:82
+#, kde-format
+msgid "Devices"
+msgstr "उपकरण"
+
+#: qml/main.qml:95
+#, kde-format
+msgid "About"
+msgstr "बारे में"
+
+#: qml/MessageAttachments.qml:131
+#, kde-format
+msgid "Audio clip"
+msgstr "ऑडियो क्लिप"
+
+#: qml/SendingArea.qml:24
+#, kde-format
+msgid "Failed to send"
+msgstr "भेजने में विफल"
+
+#: qml/SendingArea.qml:25
+#, kde-format
+msgid "Max message size limit exceeded."
+msgstr "अधिकतम संदेश आकार सीमा पार हो गई."
+
+#: qml/SendingArea.qml:73
+#, kde-format
+msgid "Compose message"
+msgstr "संदेश लिखें"
